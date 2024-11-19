@@ -1,6 +1,4 @@
-use serde::{Deserialize, Serialize};
-
-
+use serde::{Serialize, Deserialize};
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct Student {
@@ -8,10 +6,4 @@ pub struct Student {
     pub name: String,
     pub phone: String,
     pub email: String,
-    pub marks: HashMap<String, Marks>,
-}
-
-#[derive(Serialize, Deserialize, Debug)]
-pub struct Students {
-    pub students: Vec<Student>,
 }
