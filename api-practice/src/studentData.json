@@ -1,0 +1,68 @@
+[
+    {
+        "id": "",
+        "name": "",
+        "phone": "",
+        "email": "",
+        "marks": {
+            "exam1": {
+                "marksData": [
+                    {
+                        "subject1": {
+                            "marks": 98
+                        }
+                    },
+                    {
+                        "subject2": {
+                            "marks": 98
+                        }
+                    },
+                    {
+                        "subject3": {
+                            "marks": 98
+                        }
+                    },
+                    {
+                        "subject4": {
+                            "marks": 98
+                        }
+                    },
+                    {
+                        "subject5": {
+                            "marks": 98
+                        }
+                    }
+                ]
+            },
+            "exam2": {
+                "marksData": [
+                    {
+                        "subject1": {
+                            "marks": 98
+                        }
+                    },
+                    {
+                        "subject2": {
+                            "marks": 98
+                        }
+                    },
+                    {
+                        "subject3": {
+                            "marks": 98
+                        }
+                    },
+                    {
+                        "subject4": {
+                            "marks": 98
+                        }
+                    },
+                    {
+                        "subject5": {
+                            "marks": 98
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]
